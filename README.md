@@ -1,31 +1,21 @@
-Hi, I’m Harish Kumar P 👋
+# 💫 About Me:
+🎓 B.Tech in Computer Science and Engineering (Big Data Analytics)<br>🏫 SRM University, Trichy<br>🌱 Currently learning Machine Learning, Data Science, and Backend Development<br>💻 Interested in AI, Data Analytics, and Full Stack Development<br>📫 Reach me on LinkedIn<br>
 
-Aspiring Data Analyst | CSE Big Data Analytics Student
 
-I’m a Computer Science student specialising in Big Data Analytics at SRM Institute of Science and Technology, Trichy.
+## 🌐 Socials:
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Harish Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hk6200492@gmail.com) 
 
-I’m passionate about transforming raw data into meaningful insights and solving real-world problems using data analytics and technology.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=hk6200492-code&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=hk6200492-code&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hk6200492-code&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-🚀 Skills & Technologies
+---
+[![](https://komarev.com/ghpvc/?username=hk6200492-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-* Programming: Python, C, Java
-* Data Analytics: Pandas, NumPy, Exploratory Data Analysis
-* Database: SQL, MySQL, MongoDB
-* Data Visualization: Excel, Power BI
-* Big Data: Apache Hadoop, Apache Spark, Apache Hive, Apache HBase, Apache Sqoop
-
-📊 Currently Learning
-
-* Advanced SQL
-* Python for Data Analysis
-* Power BI Dashboard Development
-* Real-world Data Analytics Projects
-
-💻 Featured Projects
-
-* Sales Data Analysis using Python and Excel
-* SQL Business Data Analysis
-* Interactive Sales Dashboard using Power BI
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 🎯 Career Interests
 
