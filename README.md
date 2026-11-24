@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hk6200492-code&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <p align="center">
    <a href="https:https://leetcode.com/u/Tfnw0tfuKP/">
-     <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/Tfnw0tfuKP?theme=dark&font=Karma&ext=heatmap" 
+     <img src="https://leetcard.jacoblin.cool/u/Tfnw0tfuKP?theme=dark&font=Karma&ext=heatmap" 
           alt="LeetCode Stats" />
    </a>
 </p>
