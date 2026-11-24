@@ -38,7 +38,7 @@ Data Analyst | Business Data Analyst | BI Analyst | Big Data Engineer
 
 ⸻
 
-“Turning data into insights, one project at a time.”
+
 
 <!--
 **hk6200492-code/hk6200492-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
