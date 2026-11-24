@@ -1,73 +1,73 @@
-# 💫 About Me:
-🎓 B.Tech in Computer Science and Engineering (Big Data Analytics)<br>🏫 SRM University, Trichy<br>🌱Experience with Machine Learning, Data Science, and Backend Development<br>💻 Interested in AI, Data Analytics, and Full Stack Development<br>📫 Reach me on LinkedIn<br>
+<div align="center">
 
+<img src="./assets/header.gif" width="100%" alt="Harish Kumar P - animated developer workspace"/>
 
+# HARISH KUMAR P
+### CSE • BIG DATA ANALYTICS | ASPIRING DATA ANALYST
 
+**Turning data into insights. Building skills into solutions.**
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hk6200492-code&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=hk6200492-code&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hk6200492-code&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-## 🧩 LeetCode Statistics
+[![GitHub](https://img.shields.io/badge/GitHub-hk6200492--code-181717?style=for-the-badge&logo=github)](https://github.com/hk6200492-code)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harishkumar-bda)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tfnw0tfuKP/)
 
-<p align="center">
-  <a href="https://leetcode.com/u/Tfnw0tfuKP/">
-    <img src="https://leetcard.jacoblin.cool/Tfnw0tfuKP?theme=dark&font=Karma&ext=heatmap" alt="Harish's LeetCode Stats" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://leetcode.com/u/Tfnw0tfuKP/">
-    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-</p>
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="YOUR_INSTAGRAM_URL">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/harishkumar-bda/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Tfnw0tfuKP/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="YOUR_HACKERRANK_URL">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</p>
 ---
-[![](https://komarev.com/ghpvc/?username=hk6200492-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="./assets/about.svg" width="100%" alt="About Harish"/>
 
-🎯 Career Interests
+## `> profile.summary`
 
-Data Analyst | Business Data Analyst | BI Analyst | Big Data Engineer
+- 🎓 B.Tech in Computer Science and Engineering (Big Data Analytics)
+- 🏫 SRM Institute of Science and Technology, Tiruchirappalli
+- 📊 Interested in Data Analytics, Big Data, Data Science and AI
+- 🌱 Currently strengthening Python, SQL, analytics and machine-learning foundations
+- 🤝 Open to learning opportunities, projects and data analytics internships
 
-📫 Connect With Me
+<img src="./assets/skills.svg" width="100%" alt="Technical skills"/>
 
-* LinkedIn: hk6200492-code
-* GitHub: My GitHub
+## `> tools_and_technologies`
 
-⸻
+**Programming:** Python · C · Java · SQL  
+**Analytics:** Pandas · NumPy · EDA · Data Visualization  
+**Big Data:** Hadoop · Spark · Hive · HBase · Sqoop  
+**Databases:** MySQL · MongoDB  
+**Tools:** Git · GitHub · Excel
 
+> Edit this list to show only tools you can confidently discuss in an interview.
 
+## `> featured_projects`
 
-<!--
-**hk6200492-code/hk6200492-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Project | Description |
+|---|---|
+| [Excel Sales Analysis](https://github.com/hk6200492-code) | Sales data analysis and insight generation |
+| [AI-Driven Customer Behavior Analysis](https://github.com/hk6200492-code) | Big Data project concept focused on customer patterns |
 
-Here are some ideas to get you started:
+*Replace these links with the exact project repository URLs when ready.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## `> github_activity`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hk6200492-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk6200492-code&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+<img src="https://streak-stats.demolab.com?user=hk6200492-code&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+## `> connect --with-harish`
+
+```bash
+$ Harish Kumar P --connect
+
+✓ GitHub     : https://github.com/hk6200492-code
+✓ LinkedIn   : https://www.linkedin.com/in/harishkumar-bda
+✓ LeetCode   : https://leetcode.com/u/Tfnw0tfuKP/
+✓ Focus      : Data Analytics | Big Data | Python | SQL
+```
+
+<div align="center">
+<img src="./assets/footer.svg" width="100%" alt="Let's build something meaningful"/>
+</div>

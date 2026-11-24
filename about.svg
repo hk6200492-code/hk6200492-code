@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="190" viewBox="0 0 1100 190">
+    <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+    <rect width="100%" height="100%" rx="18" fill="#0f172a" stroke="#334155"/>
+    
+<text x="34" y="52" fill="#7dd3fc" font-family="monospace" font-size="25" font-weight="bold">01  /  ABOUT ME</text>
+<text x="34" y="94" fill="#f8fafc" font-family="monospace" font-size="21">CSE student specializing in Big Data Analytics at SRM IST.</text>
+<text x="34" y="130" fill="#cbd5e1" font-family="monospace" font-size="18">Exploring data, building insights, and learning modern technologies.</text>
+<text x="34" y="160" fill="#a78bfa" font-family="monospace" font-size="17">Curious mind  •  Consistent learner  •  Future data professional</text>
+
+    </svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="180" viewBox="0 0 1100 180">
+    <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+    <rect width="100%" height="100%" rx="18" fill="#0f172a" stroke="#334155"/>
+    
+<text x="34" y="48" fill="#7dd3fc" font-family="monospace" font-size="25" font-weight="bold">02  /  TECH STACK</text>
+<g font-family="monospace" font-size="18" font-weight="bold">
+<rect x="34" y="72" width="140" height="42" rx="9" fill="#1d4ed8"/><text x="54" y="99" fill="#fff">PYTHON</text>
+<rect x="190" y="72" width="110" height="42" rx="9" fill="#0e7490"/><text x="218" y="99" fill="#fff">SQL</text>
+<rect x="316" y="72" width="150" height="42" rx="9" fill="#6d28d9"/><text x="338" y="99" fill="#fff">PANDAS</text>
+<rect x="482" y="72" width="145" height="42" rx="9" fill="#0369a1"/><text x="502" y="99" fill="#fff">NUMPY</text>
+<rect x="643" y="72" width="170" height="42" rx="9" fill="#047857"/><text x="660" y="99" fill="#fff">POWER BI*</text>
+<rect x="829" y="72" width="225" height="42" rx="9" fill="#9a3412"/><text x="847" y="99" fill="#fff">HADOOP / SPARK</text>
+</g>
+<text x="34" y="153" fill="#94a3b8" font-family="monospace" font-size="15">*Add Power BI only if you currently use it; edit this stack to match your skills.</text>
+
+    </svg>

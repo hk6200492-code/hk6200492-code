@@ -1,0 +1,18 @@
+HARISH KUMAR P — GITHUB PROFILE PACKAGE
+
+UPLOAD STEPS
+1. Open https://github.com/hk6200492-code/hk6200492-code
+2. Click Add file > Upload files.
+3. Extract this ZIP on your laptop.
+4. Upload README.md, profile.json, and the entire assets folder (keep the folder structure).
+5. If GitHub asks to replace README.md, choose replace/update.
+6. Commit changes directly to the main branch.
+7. Open https://github.com/hk6200492-code and refresh.
+
+IMPORTANT
+- Keep README.md and assets/ in the repository root.
+- Do not upload only the contents of assets without the folder.
+- The GIF is a custom-created VS Code-inspired animated banner.
+- Check the LinkedIn and LeetCode links and edit them if your profile URLs differ.
+- The Power BI badge in skills.svg is marked with *; remove it if you are not yet using Power BI.
+- Replace the sample featured-project links with exact project URLs once your repositories are ready.
