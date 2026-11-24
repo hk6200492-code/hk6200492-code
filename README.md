@@ -1,16 +1,7 @@
 # 💫 About Me:
 🎓 B.Tech in Computer Science and Engineering (Big Data Analytics)<br>🏫 SRM University, Trichy<br>🌱Experience with Machine Learning, Data Science, and Backend Development<br>💻 Interested in AI, Data Analytics, and Full Stack Development<br>📫 Reach me on LinkedIn<br>
-<div align="center">
 
-<h2>👨‍💻 MY DEVELOPER WORKSPACE</h2>
 
-<img src="./harish-developer-animation.gif"
-     width="90%"
-     alt="Harish coding animation">
-
-<h3>🚀 CODE • ANALYZE • BUILD • INNOVATE</h3>
-
-</div>
 
 
 # 💻 Tech Stack:
