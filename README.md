@@ -1,13 +1,4 @@
-<!-- ===================================================== -->
-<!--              HARISH KUMAR P - PROFILE                 -->
-<!-- ===================================================== -->
 
-<div align="center">
-
-<!-- ANIMATED HEADER -->
-<img src="https://raw.githubusercontent.com/hk6200492-code/hk6200492-code/main/harish-developer-animation.gif" width="100%" alt="Harish Developer Animation"/>
-
-<br/>
 
 # 👋 HI, I'M HARISH KUMAR P
 
