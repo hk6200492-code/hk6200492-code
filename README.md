@@ -1,15 +1,6 @@
 # 💫 About Me:
 🎓 B.Tech in Computer Science and Engineering (Big Data Analytics)<br>🏫 SRM University, Trichy<br>🌱 Currently learning Machine Learning, Data Science, and Backend Development<br>💻 Interested in AI, Data Analytics, and Full Stack Development<br>📫 Reach me on LinkedIn<br>
 
-<div align="center">
-
-<h2>👨‍💻 HARISH'S CODING WORLD</h2>
-
-<img src="https://raw.githubusercontent.com/hk6200492-code/hk6200492-code/main/harish-developer-animation.gif"
-
-     width="85%"
-
-     alt="Harish Kumar P coding animation">
 
 <h3>🚀 CODE • ANALYZE • BUILD • INNOVATE</h3>
 
