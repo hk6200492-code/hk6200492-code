@@ -34,7 +34,7 @@ interests:
   - Artificial Intelligence
   - Machine Learning
 
-currently_learning:
+Skills:
   - Python
   - SQL
   - Power BI
