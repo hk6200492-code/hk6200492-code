@@ -1,25 +1,6 @@
 # 💫 About Me:
 🎓 B.Tech in Computer Science and Engineering (Big Data Analytics)<br>🏫 SRM University, Trichy<br>🌱 Currently learning Machine Learning, Data Science, and Backend Development<br>💻 Interested in AI, Data Analytics, and Full Stack Development<br>📫 Reach me on LinkedIn<br>
 
-<div align="center">
-
-<h2>👨‍💻 My Developer Workspace</h2>
-
-<img src="./assets/harish-developer-animation.gif"
-
-     width="85%"
-
-     alt="Harish Kumar P working on his laptop"/>
-
-<h3>🚀 Code • Analyze • Build • Innovate</h3>
-
-<p>
-
-  <i>Dream Big. Keep Learning. Build Something Amazing.</i>
-
-</p>
-
-</div>
 
 
 
