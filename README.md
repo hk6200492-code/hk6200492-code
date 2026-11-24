@@ -1,73 +1,180 @@
+<!-- ===================================================== -->
+<!--              HARISH KUMAR P - PROFILE                 -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-<img src="./assets/header.gif" width="100%" alt="Harish Kumar P - animated developer workspace"/>
+<!-- ANIMATED HEADER -->
+<img src="https://raw.githubusercontent.com/hk6200492-code/hk6200492-code/main/harish-developer-animation.gif" width="100%" alt="Harish Developer Animation"/>
 
-# HARISH KUMAR P
-### CSE • BIG DATA ANALYTICS | ASPIRING DATA ANALYST
+<br/>
 
-**Turning data into insights. Building skills into solutions.**
+# 👋 HI, I'M HARISH KUMAR P
+
+### 💻 CSE • BIG DATA ANALYTICS | ASPIRING DATA ANALYST
+
+**Turning Data Into Insights | Building Skills Into Solutions**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Big+Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Exploring+Machine+Learning;Always+Learning.+Always+Building." alt="Typing SVG"/>
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-hk6200492--code-181717?style=for-the-badge&logo=github)](https://github.com/hk6200492-code)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harishkumar-bda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harishkumar-bda/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tfnw0tfuKP/)
 
 </div>
 
 ---
 
-<img src="./assets/about.svg" width="100%" alt="About Harish"/>
+## 👨‍💻 ABOUT ME
 
-## `> profile.summary`
+```yaml
+name: Harish Kumar P
+education: B.Tech - Computer Science and Engineering
+specialization: Big Data Analytics
+university: SRM Institute of Science and Technology, Tiruchirappalli
+career_goal: Aspiring Data Analyst
 
-- 🎓 B.Tech in Computer Science and Engineering (Big Data Analytics)
-- 🏫 SRM Institute of Science and Technology, Tiruchirappalli
-- 📊 Interested in Data Analytics, Big Data, Data Science and AI
-- 🌱 Currently strengthening Python, SQL, analytics and machine-learning foundations
-- 🤝 Open to learning opportunities, projects and data analytics internships
+interests:
+  - Data Analytics
+  - Big Data Technologies
+  - Data Science
+  - Artificial Intelligence
+  - Machine Learning
 
-<img src="./assets/skills.svg" width="100%" alt="Technical skills"/>
+currently_learning:
+  - Python
+  - SQL
+  - Power BI
+  - Machine Learning
+  - Data Visualization
 
-## `> tools_and_technologies`
+looking_for:
+  - Data Analytics Internships
+  - Real-world Projects
+  - Learning Opportunities
+```
 
-**Programming:** Python · C · Java · SQL  
-**Analytics:** Pandas · NumPy · EDA · Data Visualization  
-**Big Data:** Hadoop · Spark · Hive · HBase · Sqoop  
-**Databases:** MySQL · MongoDB  
-**Tools:** Git · GitHub · Excel
+🎯 Passionate about transforming raw data into meaningful insights.
 
-> Edit this list to show only tools you can confidently discuss in an interview.
+🚀 Interested in solving real-world problems using data and technology.
 
-## `> featured_projects`
+📊 Continuously improving my analytical and programming skills.
 
-| Project | Description |
-|---|---|
-| [Excel Sales Analysis](https://github.com/hk6200492-code) | Sales data analysis and insight generation |
-| [AI-Driven Customer Behavior Analysis](https://github.com/hk6200492-code) | Big Data project concept focused on customer patterns |
+---
 
-*Replace these links with the exact project repository URLs when ready.*
+## 🛠️ TECH STACK & TECHNOLOGIES
 
-## `> github_activity`
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java,mysql" />
+</p>
+
+### Data Analytics & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/EDA-Data%20Analysis-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data-Visualization-orange?style=for-the-badge"/>
+</p>
+
+### Big Data Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+| Project | Description | Technology |
+|---|---|---|
+| [Excel Sales Analysis](https://github.com/hk6200492-code/excel-sales-analysis) | Sales data analysis and business insights | Excel |
+| AI-Driven Customer Behavior Analysis | Big Data project concept focused on customer patterns | Big Data Analytics |
+
+---
+
+## 📊 GITHUB STATISTICS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hk6200492-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk6200492-code&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hk6200492-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img src="https://streak-stats.demolab.com?user=hk6200492-code&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk6200492-code&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=hk6200492-code&theme=tokyonight&hide_border=true" />
 
 </div>
 
-## `> connect --with-harish`
+---
 
-```bash
-$ Harish Kumar P --connect
-
-✓ GitHub     : https://github.com/hk6200492-code
-✓ LinkedIn   : https://www.linkedin.com/in/harishkumar-bda
-✓ LeetCode   : https://leetcode.com/u/Tfnw0tfuKP/
-✓ Focus      : Data Analytics | Big Data | Python | SQL
-```
+## 🧠 LEETCODE PROFILE
 
 <div align="center">
-<img src="./assets/footer.svg" width="100%" alt="Let's build something meaningful"/>
+
+<a href="https://leetcode.com/u/Tfnw0tfuKP/">
+<img src="https://leetcard.jacoblin.cool/Tfnw0tfuKP?theme=dark&font=Fira%20Code&ext=heatmap" width="90%" alt="LeetCode Statistics"/>
+</a>
+
+**Practice. Improve. Repeat.**
+
+[![LeetCode Profile](https://img.shields.io/badge/Visit%20My-LeetCode%20Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Tfnw0tfuKP/)
+
+</div>
+
+---
+
+## 🎯 CURRENT GOALS
+
+- [ ] Improve Python programming skills.
+- [ ] Master SQL and database management.
+- [ ] Develop interactive Power BI dashboards.
+- [ ] Build real-world Data Analytics projects.
+- [ ] Learn Machine Learning fundamentals.
+- [ ] Secure a Data Analytics Internship.
+
+---
+
+## 🤝 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/hk6200492-code">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harishkumar-bda/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Tfnw0tfuKP/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+### 💡 CODE • ANALYZE • LEARN • INNOVATE
+
+**"Great things are built one line of code at a time."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
+
 </div>
