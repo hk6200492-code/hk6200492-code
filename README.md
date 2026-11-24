@@ -23,7 +23,22 @@
     <img src="https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
+## 🌐 Connect With Me
 
+<p align="center">
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/harishkumar-bda/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Tfnw0tfuKP/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="YOUR_HACKERRANK_URL">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 ---
 [![](https://komarev.com/ghpvc/?username=hk6200492-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
