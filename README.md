@@ -10,11 +10,18 @@
 ![](https://github-readme-stats.shion.dev/api?username=hk6200492-code&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=hk6200492-code&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hk6200492-code&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## 🧩 LeetCode Statistics
+
 <p align="center">
-   <a href="https:https://leetcode.com/u/Tfnw0tfuKP/">
-     <img src="https://leetcard.jacoblin.cool/u/Tfnw0tfuKP?theme=dark&font=Karma&ext=heatmap" 
-          alt="LeetCode Stats" />
-   </a>
+  <a href="https://leetcode.com/u/Tfnw0tfuKP/">
+    <img src="https://leetcard.jacoblin.cool/Tfnw0tfuKP?theme=dark&font=Karma&ext=heatmap" alt="Harish's LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Tfnw0tfuKP/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
 </p>
 
 ---
